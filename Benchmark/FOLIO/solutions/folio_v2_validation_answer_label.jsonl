@@ -1,0 +1,203 @@
+{"answer": "Bonnie performs in school talent shows often.", "label": "Uncertain"}
+{"answer": "If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.", "label": "True"}
+{"answer": "If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.", "label": "False"}
+{"answer": "James has lunch in the company.", "label": "Uncertain"}
+{"answer": "James does not have lunch in the company.", "label": "Uncertain"}
+{"answer": "If James is either a manager or in other countries,  then James does not either has lunch at home or work remotely from home. If James either has lunch at home or works remotely from home, then he is neither a manager nor does he work in other countries. [contrapositive is more natural]", "label": "True"}
+{"answer": "There is an animal.", "label": "True"}
+{"answer": "No one gets the flu.", "label": "Uncertain"}
+{"answer": "Symptoms of Monkeypox include coughing.", "label": "Uncertain"}
+{"answer": "Tom is an Ocellated wild turkey.", "label": "True"}
+{"answer": "Tom is an Eastern wild turkey.", "label": "False"}
+{"answer": "Joey is a wild turkey.", "label": "Uncertain"}
+{"answer": "The Legend of Zelda is on the Top 10 list.", "label": "True"}
+{"answer": "FIFA 22 is made by a Japanese video game company.", "label": "Uncertain"}
+{"answer": "The Legend of Zelda is not on the Top 10 list.", "label": "False"}
+{"answer": "All squares are shapes.", "label": "True"}
+{"answer": "Rockie is a turtle.", "label": "Uncertain"}
+{"answer": "Rockie is not a turtle.", "label": "Uncertain"}
+{"answer": "Rockie is a turtle or cute.", "label": "True"}
+{"answer": "If Rockie is not both a turtle and a squirrel, then Rockie is either cute or skittish.", "label": "True"}
+{"answer": "If Rockie is cute and calm, then Rockie is a skittish turtle.", "label": "False"}
+{"answer": "Karen will share \"Stranger Things\" with Lisa.", "label": "True"}
+{"answer": "\"Black Mirror\" is popular.", "label": "False"}
+{"answer": "Karen will share \"Black Mirror\" with Lisa.", "label": "Uncertain"}
+{"answer": "Beijing hosted both the 2008 Summer Olympics and the Winter Olympics.", "label": "True"}
+{"answer": "Beijing is located in southern China.", "label": "Uncertain"}
+{"answer": "Beijing is the second largest Chinese city.", "label": "Uncertain"}
+{"answer": "Marvin is an alien.", "label": "Uncertain"}
+{"answer": "Marvin is neither a human nor from Mars.", "label": "True"}
+{"answer": "If Marvin is not from Mars, then Marvin is a human.", "label": "False"}
+{"answer": "Djokovic is a Grand Slam champion.", "label": "Uncertain"}
+{"answer": "Djokovic lives in a tax haven.", "label": "True"}
+{"answer": "Djokovic does not live in a tax haven.", "label": "False"}
+{"answer": "Roderick Strong leads a professional wrestling stable.", "label": "True"}
+{"answer": "Roderick Strong leads the Creed Brothers.", "label": "Uncertain"}
+{"answer": "Imperium doesn't have a feud with a professional wrestling stable that includes Ivy Nile.", "label": "False"}
+{"answer": "Beethoven is a composer.", "label": "True"}
+{"answer": "Some orchestras premiered music pieces.", "label": "True"}
+{"answer": "Beethoven is not a conductor.", "label": "False"}
+{"answer": "A design by Max is a brutalist building.", "label": "Uncertain"}
+{"answer": "A design by Max is evocative and dreamy.", "label": "True"}
+{"answer": "A design by Max is either evocative or dreamy.", "label": "False"}
+{"answer": "Coco Gauff is among the most active Grand-Slam players.", "label": "True"}
+{"answer": "Coco Gauff has lost to Rafael Nadal.", "label": "Uncertain"}
+{"answer": "Coco Gauff is not both a player who lost to Iga Świątek at Roland Garros 2022 and one of the most active players in major tennis.", "label": "False"}
+{"answer": "No pets are cats.", "label": "Uncertain"}
+{"answer": "James's favorite season is summer.", "label": "True"}
+{"answer": "Mia's favorite season is spring.", "label": "Uncertain"}
+{"answer": "1984 is printed text.", "label": "Uncertain"}
+{"answer": "1984 is a streaming service.", "label": "False"}
+{"answer": "1984 is not a streaming service.", "label": "True"}
+{"answer": "Basque is a Romance language.", "label": "False"}
+{"answer": "German is a Romance language.", "label": "Uncertain"}
+{"answer": "French is an Indo-European language.", "label": "True"}
+{"answer": "Robert Lewandowski is a soccer player.", "label": "True"}
+{"answer": "Robert Lewandowski plays for Bayern Munchen.", "label": "False"}
+{"answer": "Robert Lewandowski is a star.", "label": "Uncertain"}
+{"answer": "Butte and St Pierre are in the same state.", "label": "False"}
+{"answer": "St Pierre and Bismarck are in the same state.", "label": "Uncertain"}
+{"answer": "Montana is home to the city of Missoula.", "label": "True"}
+{"answer": "Mike has an F1 visa.", "label": "Uncertain"}
+{"answer": "Mike has a J1 visa.", "label": "Uncertain"}
+{"answer": "Ted is a pet.", "label": "Uncertain"}
+{"answer": "Ted is a pet and Brown Swiss cattle", "label": "False"}
+{"answer": "If Ted is a Brown Swiss cattle, then Ted is not a pet.", "label": "True"}
+{"answer": "A private Ivy League research university moved to New Haven.", "label": "True"}
+{"answer": "Yale University has the largest university endowment of any educational institution.", "label": "Uncertain"}
+{"answer": "Pierson College is a residential college at Yale.", "label": "True"}
+{"answer": "Andrew Collins was the script editor for a series with the working title \"The Secret Dude Society\".", "label": "True"}
+{"answer": "No members of Pappy's have starred in a show piloting on BBC Two or BBC Three.", "label": "False"}
+{"answer": "KO is a stock.", "label": "Uncertain"}
+{"answer": "KO is a stock and a growth stock.", "label": "False"}
+{"answer": "If KO is a growth stock or bought to earn profits from rapid price appreciation, then KO is neither a stock nor is its price volatile.", "label": "True"}
+{"answer": "Joe's license plate begins with the number 34.", "label": "True"}
+{"answer": "Tom's license plate is from Istanbul.", "label": "False"}
+{"answer": "Hannah needs to earn money to help pay for her college tuition.", "label": "Uncertain"}
+{"answer": "Hannah is at Mary's school and she is not a picky eater and spends a lot of her time eating and catching up with friends in the campus dining halls.", "label": "True"}
+{"answer": "Hannah is at Mary's school and she either is not a picky eater or, if she is, then she spends a lot of her time eating and catching up with friends in the campus dining halls.", "label": "False"}
+{"answer": "Dried Thai chilies are products of Baked by Melissa.", "label": "False"}
+{"answer": "Dried Thai chilies are not products of Baked by Melissa.", "label": "True"}
+{"answer": "Dried Thai chilies are a mala hotpot.", "label": "Uncertain"}
+{"answer": "Dried Thai chilies are neither products of Baked by Melissa nor baked sweets.", "label": "True"}
+{"answer": "Dried Thai chilies are cupcakes and products of Baked by Melissa.", "label": "False"}
+{"answer": "If the Hamden Plaza Subway store provides take-out service and receives many negative reviews, then its rating is greater than 4 and it does not provide take-out service.", "label": "False"}
+{"answer": "The Hamden Plaza Subway store provides take-out service or does not receive many negative reviews.", "label": "True"}
+{"answer": "The Hamden Plaza store does not provide take-out service.", "label": "Uncertain"}
+{"answer": "Sir Digby’s nemesis does not win.", "label": "True"}
+{"answer": "Walden contains knowledge.", "label": "True"}
+{"answer": "Harry is smarter than before.", "label": "True"}
+{"answer": "A smarter person has gained knowledge.", "label": "Uncertain"}
+{"answer": "Machine translation is a language generation task.", "label": "True"}
+{"answer": "Machine translation is a language understanding task.", "label": "False"}
+{"answer": "Tom will rent an apartment in The Olive Garden.", "label": "False"}
+{"answer": "Tom is allowed to move into an apartment in The Olive Garden with Fluffy.", "label": "Uncertain"}
+{"answer": "The security deposit at the Olive Garden is either $2000 or more.", "label": "True"}
+{"answer": "The Harvard Weekly Book club has legal obligations.", "label": "Uncertain"}
+{"answer": "The Harvard Weekly Book club has legal obligations and is a private company.", "label": "False"}
+{"answer": "If the Harvard Weekly Book club is a private company, then it either has legal obligations or is created under law.", "label": "True"}
+{"answer": "Harry is a queen bee.", "label": "Uncertain"}
+{"answer": "Harry is an invertebrate or a queen bee.", "label": "True"}
+{"answer": "If Harry is either both a vertebrate and an animal with a backbone, or neither a vertebrate nor an animal with a backbone, then Harry is neither an invertebrate nor a queen bee.", "label": "False"}
+{"answer": "Luke spends a lot of time hanging out and playing with his siblings.", "label": "Uncertain"}
+{"answer": "Luke complains often about annoying siblings.", "label": "False"}
+{"answer": "Luke is neither born in a multiple birth nor complains often about annoying siblings.", "label": "True"}
+{"answer": "ETS provides financial aid to Tom.", "label": "True"}
+{"answer": "It costs below US $300 to take the GRE test.", "label": "True"}
+{"answer": "No one taking the GRE test has financial aid provided to them by something.", "label": "False"}
+{"answer": "Peter is notably tidy.", "label": "Uncertain"}
+{"answer": "Peter is either a  clumsy foodie who goes out frequently to find new food restaurants to try or he is someone whose family prioritizes order and spotlessness.", "label": "False"}
+{"answer": "Peter is either both a clumsy foodie who goes out frequently to find new food restaurants to try and issomeone whose family prioritizes order and spotlessness, or he neither is a clumsy foodie who goes out frequently to find new food restaurants to try nor does his family prioritize order and spotlessness.", "label": "True"}
+{"answer": "Some evergreens are not objects of worship.", "label": "Uncertain"}
+{"answer": "Juan de Onate visited a mountain range in New Mexico.", "label": "True"}
+{"answer": "Juan de Onate visited a mountain range in Texas.", "label": "Uncertain"}
+{"answer": "The Harding Pegmatite Mine is not located in a mountain range in New Mexico.", "label": "False"}
+{"answer": "Peter is shorter than a man in Michael's class.", "label": "False"}
+{"answer": "Windy is a great shooter.", "label": "True"}
+{"answer": "Peter can block Windy's shooting.", "label": "Uncertain"}
+{"answer": "Barutin Cove is named after all islands in Antarctica.", "label": "Uncertain"}
+{"answer": "There is at least one cove in Antarctica named after a place in Bulgaria.", "label": "True"}
+{"answer": "Barutin Cove is not located in Antarctica.", "label": "False"}
+{"answer": "Some affection is positive.", "label": "Uncertain"}
+{"answer": "John's car is a Tesla Model 3.", "label": "Uncertain"}
+{"answer": "John's car is a Solo EV.", "label": "False"}
+{"answer": "John's car is not a Solo EV.", "label": "True"}
+{"answer": "Rock is a monkey.", "label": "Uncertain"}
+{"answer": "Rock has wings.", "label": "True"}
+{"answer": "Rock does not have wings.", "label": "False"}
+{"answer": "John has a larger family.", "label": "False"}
+{"answer": "John does not have a larger family.", "label": "True"}
+{"answer": "John is engaged.", "label": "Uncertain"}
+{"answer": "John neither has a larger family nor does he invite others to his wedding.", "label": "True"}
+{"answer": "Platypuses are mammals with no teeth.", "label": "True"}
+{"answer": "Platypuses are reptiles.", "label": "Uncertain"}
+{"answer": "Humans are mammals.", "label": "Uncertain"}
+{"answer": "Space sucks.", "label": "True"}
+{"answer": "Space is a vampire.", "label": "Uncertain"}
+{"answer": "If something is a household appliance, it sucks.", "label": "False"}
+{"answer": "Supervised learning is used to train the state-of-the-art text summarization model.", "label": "True"}
+{"answer": "Unsupervised learning is used to train the state-of-the-art text summarization model.", "label": "False"}
+{"answer": "\"Hachi: A dog's Tale\" is rated General Audience.", "label": "Uncertain"}
+{"answer": "\"Hachi: A dog's Tale\" contains excessive erotic and violent content or is in the \"Frozen\" series or both.", "label": "False"}
+{"answer": "\"Hachi: A dog's Tale\" either contains excessive erotic and violent content and is a film in the \"Frozen\" series, or it neither contains excessive erotic and violent content nor is a film in the \"Frozen\" series.", "label": "True"}
+{"answer": "Some Heck cattle are artificially selected.", "label": "True"}
+{"answer": "Aurochs are extinct.", "label": "Uncertain"}
+{"answer": "Vladimir is a Russian federation official", "label": "Uncertain"}
+{"answer": "Vladimir is not a Russian federation official", "label": "Uncertain"}
+{"answer": "Ekaterina can participate in the 2024 United States presidential election or is a manager at Gazprom.", "label": "True"}
+{"answer": "Ekaterina can participate in the 2024 United States presidential election or Vladimir is a manager at Gazprom.", "label": "True"}
+{"answer": "It is not true that Ekaterina can register to vote in the United States and Vladimir can participate in the 2024 United States presidential election.", "label": "False"}
+{"answer": "Neapolitan Chronicles is an English book.", "label": "True"}
+{"answer": "Harry Potter was published by New Vessel Press.", "label": "Uncertain"}
+{"answer": "Palace of Flies was translated from Italian.", "label": "Uncertain"}
+{"answer": "The mixture contains carbon.", "label": "Uncertain"}
+{"answer": "The mixture is an alkane and contains carbon.", "label": "False"}
+{"answer": "If the mixture contains only one element or contains carbon, then the mixture is neither a chemical compound nor an alkane.", "label": "True"}
+{"answer": "Some Greeks are mortal.", "label": "Uncertain"}
+{"answer": "James has a part-time job offered by the university.", "label": "False"}
+{"answer": "James does not have a part-time job offered by the university.", "label": "True"}
+{"answer": "James either takes the database course or has a part-time job offered by the university.", "label": "True"}
+{"answer": "James takes the database course.", "label": "Uncertain"}
+{"answer": "If George likes music and has access to a program, he will compose.", "label": "True"}
+{"answer": "If George will not compose, George can not compose.", "label": "Uncertain"}
+{"answer": "All birds swim.", "label": "False"}
+{"answer": "Breaking Bad is on Monday at 8 pm.", "label": "Uncertain"}
+{"answer": "Breaking Bad is a TV show in which roses are given out on Monday at 8 pm.", "label": "False"}
+{"answer": "If roses are given out during Breaking Bad, then it is on Monday at 8 pm.", "label": "True"}
+{"answer": "Heinrich Schmidt was German or Russian or both.", "label": "True"}
+{"answer": "Some German politician was part of both the Prussian State Parliament and the Nazi Reichstag.", "label": "True"}
+{"answer": "No politicians are part of the Nazi Reichstag.", "label": "False"}
+{"answer": "Colorectal cancer is a kind of severe cancer", "label": "Uncertain"}
+{"answer": "If colorectal cancer is a kind of bile duct cancer or a form of Cholangiocarcinoma, then colorectal cancer is a kind of bile duct cancer and a kind of mild flu.", "label": "True"}
+{"answer": "Colorectal cancer is a form of Cholangiocarcinoma and it is a kind of mild flu or a kind of bile duct cancer, or all of the above.", "label": "False"}
+{"answer": "Taylor eats salads regularly.", "label": "Uncertain"}
+{"answer": "Taylor visits the gym at least once a day.", "label": "False"}
+{"answer": "Taylor neither grew up in a health-conscious childhood home nor does she visit the gym at least once a day.", "label": "True"}
+{"answer": "The world championships is a sporting event.", "label": "Uncertain"}
+{"answer": "The last summer Olympic games were not in Tokyo.", "label": "False"}
+{"answer": "The United States won the most medals in the last summer Olympic games.", "label": "True"}
+{"answer": "Some humans are horses.", "label": "False"}
+{"answer": "Susan flies from LGA airport.", "label": "False"}
+{"answer": "John flies to LGA airport.", "label": "False"}
+{"answer": "Tom is a grumpy person.", "label": "Uncertain"}
+{"answer": "Tom is not both a grumpy person and mean to animals.", "label": "True"}
+{"answer": "If Tom is not both a grumpy person and mean to animals, then Tom is neither a grumpy person nor an animal lover.", "label": "False"}
+{"answer": "Dani Shapiro is a novel writer.", "label": "True"}
+{"answer": "Family Secrets is a novel.", "label": "False"}
+{"answer": "Dani Shapiro was born in Boston.", "label": "Uncertain"}
+{"answer": "Yuri is an American national.", "label": "Uncertain"}
+{"answer": "Yuri is not an American professional basketball player.", "label": "True"}
+{"answer": "Yuri is an American professional basketball player.", "label": "False"}
+{"answer": "If Yuri does not leap straight into the air, then Yuri is an American professional basketball player.", "label": "False"}
+{"answer": "If Yuri is not an American professional basketball player, then Yuri is a professional basketball player.", "label": "False"}
+{"answer": "All events are sad.", "label": "False"}
+{"answer": "Steinhauer was not the winner of the 1992 du Maurier Classic.", "label": "False"}
+{"answer": "Descampe is in the six-way tie in the leaderboard of the 1992 du Maurier Classic.", "label": "Uncertain"}
+{"answer": "KiKi is terricolous.", "label": "Uncertain"}
+{"answer": "KiKi is a barking dog.", "label": "False"}
+{"answer": "KiKi does not bark and he is not a dog.", "label": "True"}
+{"answer": "No one playing for Nautico is Brazilian.", "label": "False"}
+{"answer": "Ailton Silva does not play for a football club.", "label": "False"}
+{"answer": "Ailton was not loaned out to a football club.", "label": "False"}
+{"answer": "Ailton Silva played for Fluminense.", "label": "Uncertain"}
+{"answer": "Ailton Silva was loaned out to a football club.", "label": "Uncertain"}

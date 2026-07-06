@@ -1,0 +1,1 @@
+# Switcher module init
